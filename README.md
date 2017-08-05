@@ -1,7 +1,5 @@
 # [Gold Api](https://t.me/StourTeam)
 
-[![Bot API](http://img.shields.io/badge/Bot%20API-v3.2-00aced.svg)](https://t.me/stourteam)
-
 * * *
 
 # Special thanks to
